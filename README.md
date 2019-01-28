@@ -25,5 +25,3 @@
 
 Source: https://github.com/charlax/professional-programming/blob/master/README.md#must-read-articles
 
-
-https://mixmastamyk.bitbucket.io/pro_soft_dev/_images/graphviz-3013ab051896667f58d52c6d6bd53b2ee9b9afa6.svg
