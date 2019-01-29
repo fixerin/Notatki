@@ -1,7 +1,7 @@
 # Notatki
 
 ## Must-read books
-* [Professional software development](http://mixmastamyk.bitbucket.io/pro_soft_dev/) 📖: pretty complete and a good companion to this page. The free chapters are mostly focused on software development processes: design, testing, code writing, etc. - and not so much about tech itself.
+* [Professional software development](http://mixmastamyk.bitbucket.io/pro_soft_dev/)
 * [List of free programming books](https://github.com/vhf/free-programming-books)
 
 
@@ -9,7 +9,7 @@
 
 * [Practical Advice for New Software Engineers](http://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 * [On Being A Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-* [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/): one of those articles that give you years of hard-earned lessons, all in one short article. Must read.
+* [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
 * [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 * [Signs that you're a bad programmer](http://www.yacoset.com/Home/signs-that-you-re-a-bad-programmer)
 
